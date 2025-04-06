@@ -228,4 +228,4 @@ laude AI produced code by utilizing the ```LogisticRegression``` class. It passe
 
 The code was a bit longer than that of Chat-GPT. Rather than making single-lined codes, it seemed to make more efficient code, like reshaping ```X``` only once using ```if``` statement. It also seemed to utilize as many parameters it can to make the best performance.
 
-As for the result, it produced accuracy of 0.9177, which is actually better than Chat-GPT. 
+As for the result, it produced accuracy of 0.918, which is actually better than Chat-GPT. 
